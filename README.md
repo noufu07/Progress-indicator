@@ -33,9 +33,9 @@ This project implements a simple progress indicator using HTML, CSS, and JavaScr
 
 ## License
 
-This project is licensed under the [MIT License]()
+This project is licensed under the [MIT License](https://github.com/noufu07/Progress-indicator/blob/main/LICENSE)
 
 ## Contact detail
-[Website](noufu.vercel.app)<br>
-[Email](nowfanowfal07@gmail.com)
+Website : noufu.vercel.app <br>
+Email : nowfanowfal07@gmail.com
 
